@@ -21,4 +21,5 @@ yarn build
 
 ## Examples
 
-[Primitive Types](/src/primitiveTypes.js)
+- [Primitive Types](/src/primitiveTypes.js)
+- [Literal Types](/src/literalTypes.js)
